@@ -1,0 +1,8 @@
+@media screen and (max-width: 1200px) {
+    #desktop-navigation {
+        display: none; /*when screen size is less then 1200px, desktop nav will disapper for mobile*/
+    }
+    #hamburger-navigation {
+        display: flex;
+    }
+}
